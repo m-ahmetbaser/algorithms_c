@@ -1,0 +1,25 @@
+# ninja log v5
+0	177	6778672158009886	CMakeFiles/binary_search.dir/main.c.obj	6c8d87ffa79aa832
+178	315	6778672159415407	binary_search.exe	c6d2b8cb0a5adf91
+1	83	6778673069653353	CMakeFiles/binary_search.dir/main.c.obj	6c8d87ffa79aa832
+83	198	6778673070903043	binary_search.exe	c6d2b8cb0a5adf91
+1	87	6778673259816516	CMakeFiles/binary_search.dir/main.c.obj	6c8d87ffa79aa832
+87	205	6778673260910351	binary_search.exe	c6d2b8cb0a5adf91
+2	93	6778673863509321	CMakeFiles/binary_search.dir/main.c.obj	6c8d87ffa79aa832
+93	207	6778673864759608	binary_search.exe	c6d2b8cb0a5adf91
+2	95	6778675117448349	CMakeFiles/binary_search.dir/main.c.obj	6c8d87ffa79aa832
+95	216	6778675118541838	binary_search.exe	c6d2b8cb0a5adf91
+2	93	6778676175315075	CMakeFiles/binary_search.dir/main.c.obj	6c8d87ffa79aa832
+93	214	6778676176565357	binary_search.exe	c6d2b8cb0a5adf91
+2	86	6778676682652145	CMakeFiles/binary_search.dir/main.c.obj	6c8d87ffa79aa832
+86	200	6778676683746233	binary_search.exe	c6d2b8cb0a5adf91
+2	85	6778676889577846	CMakeFiles/binary_search.dir/main.c.obj	6c8d87ffa79aa832
+85	198	6778676890671337	binary_search.exe	c6d2b8cb0a5adf91
+1	87	6778676988875442	CMakeFiles/binary_search.dir/main.c.obj	6c8d87ffa79aa832
+87	202	6778676990125145	binary_search.exe	c6d2b8cb0a5adf91
+2	81	6778677963734800	CMakeFiles/binary_search.dir/main.c.obj	6c8d87ffa79aa832
+82	197	6778677964899432	binary_search.exe	c6d2b8cb0a5adf91
+2	85	6778678194425780	CMakeFiles/binary_search.dir/main.c.obj	6c8d87ffa79aa832
+85	199	6778678195519277	binary_search.exe	c6d2b8cb0a5adf91
+1	84	6778679011574756	CMakeFiles/binary_search.dir/main.c.obj	6c8d87ffa79aa832
+85	201	6778679012749655	binary_search.exe	c6d2b8cb0a5adf91
