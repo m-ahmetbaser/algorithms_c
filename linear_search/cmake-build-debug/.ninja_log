@@ -1,0 +1,11 @@
+# ninja log v5
+0	264	6778655955751331	CMakeFiles/linear_search.dir/main.c.obj	bd1e6f548b80cdb4
+265	716	6778655960281871	linear_search.exe	84bb040a37ec8ee6
+2	105	6778656145771010	CMakeFiles/linear_search.dir/main.c.obj	bd1e6f548b80cdb4
+106	224	6778656147021315	linear_search.exe	84bb040a37ec8ee6
+2	88	6778656215817908	CMakeFiles/linear_search.dir/main.c.obj	bd1e6f548b80cdb4
+89	206	6778656216911212	linear_search.exe	84bb040a37ec8ee6
+1	84	6778656346407623	CMakeFiles/linear_search.dir/main.c.obj	bd1e6f548b80cdb4
+85	201	6778656347501120	linear_search.exe	84bb040a37ec8ee6
+1	83	6778656597666648	CMakeFiles/linear_search.dir/main.c.obj	bd1e6f548b80cdb4
+83	199	6778656598760725	linear_search.exe	84bb040a37ec8ee6
